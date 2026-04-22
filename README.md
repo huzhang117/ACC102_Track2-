@@ -17,7 +17,7 @@ Second, there is a distinct positive correlation between a brand store count and
 Third, low-priced milk tea brands achieve dramaticaly larger operational store scales compared whith high-priced brands.
 ## Product link
 Github responsitory link: https://github.com/huzhang117/ACC102_Track2-/edit/main/README.md
-Video link:
+Video link:https://b23.tv/wGzNfST
 ## Limitations & next steps
 Limitations: The dataset is limitede by incomplete raw data. Excesive invalid or messy data was removed during cleaning, which results small final sample size.Thus, the fundings cannot fully represent the entire milk tea market.
 Next steps: Add city level information and store opening time data to make the analysis more comprehensive.
